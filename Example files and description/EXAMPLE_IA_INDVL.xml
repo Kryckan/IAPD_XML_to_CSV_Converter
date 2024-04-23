@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IAPDIndividualReport GenOn="1967-08-13" >
+	<Indvls>
+		<Indvl>
+			<Info lastNm="LAST NAME XXXX" firstNm="FIRST NAME XXX" midNm="MID NAME" sufNm="JR" indvlPK="1234567891" actvAGReg="Y" link="http://www.adviserinfo.sec.gov/IAPD/Individual/1234567891"/>
+			<OthrNms>
+				<OthrNm lastNm="AAA" firstNm="AAA" midNm="AAA" sufNm="A"/>
+			</OthrNms>
+			<CrntEmps>
+				<CrntEmp orgNm="XXXX LLC" orgPK="1234567891" str1="999 XXX" str2="XXXX" city="XXX" state="AK" cntry="XXX" postlCd="12345">
+					<CrntRgstns>
+						<CrntRgstn regAuth="AK" regCat="RA" st="APPROVED" stDt="1967-08-13"/>
+						<CrntRgstn regAuth="TX" regCat="RA" st="APPROVED" stDt="1967-08-13"/>
+					</CrntRgstns>
+					<BrnchOfLocs>
+						<BrnchOfLoc str1="999 XXX" str2="XXX" city="XXX" state="AK" cntry="XXX" postlCd="12345"/>
+						<BrnchOfLoc str1="999 XXX" str2="XXX" city="XXX" state="TX" cntry="XXX" postlCd="12345"/>
+					</BrnchOfLocs>
+				</CrntEmp>
+				<CrntEmp orgNm="YYYY LLC" orgPK="1234567899" str1="999 XXX" str2="XXXX" city="XXX" state="AK" cntry="XXX" postlCd="12345">
+					<CrntRgstns>
+						<CrntRgstn regAuth="AK" regCat="RA" st="APPROVED" stDt="1967-08-13"/>
+					</CrntRgstns>
+					<BrnchOfLocs>
+						<BrnchOfLoc str1="999 XXX" str2="XXX" city="XXX" state="AK" cntry="XXX" postlCd="12345"/>
+					</BrnchOfLocs>
+				</CrntEmp>
+			</CrntEmps>
+			<Exms>
+				<Exm exmCd="S63" exmNm="S63 XXXX" exmDt="1967-08-13"/>
+				<Exm exmCd="S66" exmNm="S66 XXXX" exmDt="1967-08-13"/>
+			</Exms>
+			<Dsgntns>
+				<Dsgntn dsgntnNm="XXXXX"/>
+				<Dsgntn dsgntnNm="XXXXX"/>
+			</Dsgntns>
+			<PrevRgstns>
+				<PrevRgstn orgNm="XXX LLC" orgPK="1234567891" regBeginDt="1967-08-13" regEndDt="1967-08-13">
+					<BrnchOfLocs>
+						<BrnchOfLoc city="XXX" state="AK"/>
+						<BrnchOfLoc city="XXX" state="AL"/>
+					</BrnchOfLocs>
+				</PrevRgstn>
+			</PrevRgstns>
+			<EmpHss>
+				<EmpHs fromDt="99/9999" toDt="99/9999" orgNm="XXX LLC" city="XXXX" state="AK"/>
+				<EmpHs fromDt="99/9999" toDt="99/9999" orgNm="XXX LLC" city="XXX" state="AK"/>
+			</EmpHss>
+			<OthrBuss>
+				<OthrBus desc="XXXX"/>
+			</OthrBuss>
+			<DRPs>
+				<DRP hasRegAction="Y" hasCriminal="N" hasBankrupt="N" hasCivilJudc="N" hasBond="N" hasJudgment="Y" hasInvstgn="Y" hasCustComp="N" hasTermination="N"/>
+			</DRPs>
+		</Indvl>
+		<Indvl>
+			<Info lastNm="LAST NAME XXXX" firstNm="FIRST NAME XXX" midNm="MID NAME" sufNm="JR" indvlPK="999999" actvAGReg="Y" link="http://www.adviserinfo.sec.gov/IAPD/Individual/999999"/>
+			<OthrNms>
+				<OthrNm lastNm="AAA" firstNm="AAA" midNm="AAA" sufNm="A"/>
+			</OthrNms>
+			<CrntEmps>
+				<CrntEmp orgNm="XXXX LLC" orgPK="1234567891" str1="999 XXX" str2="XXXX" city="XXX" state="AK" cntry="XXX" postlCd="12345">
+					<CrntRgstns>
+						<CrntRgstn regAuth="AK" regCat="RA" st="APPROVED" stDt="1967-08-13"/>
+						<CrntRgstn regAuth="TX" regCat="RA" st="APPROVED" stDt="1967-08-13"/>
+					</CrntRgstns>
+					<BrnchOfLocs>
+						<BrnchOfLoc str1="999 XXX" str2="XXX" city="XXX" state="AK" cntry="XXX" postlCd="12345"/>
+						<BrnchOfLoc str1="999 XXX" str2="XXX" city="XXX" state="TX" cntry="XXX" postlCd="12345"/>
+					</BrnchOfLocs>
+				</CrntEmp>
+				<CrntEmp orgNm="YYYY LLC" orgPK="1234567899" str1="999 XXX" str2="XXXX" city="XXX" state="AK" cntry="XXX" postlCd="12345">
+					<CrntRgstns>
+						<CrntRgstn regAuth="AK" regCat="RA" st="APPROVED" stDt="1967-08-13"/>
+					</CrntRgstns>
+					<BrnchOfLocs>
+						<BrnchOfLoc str1="999 XXX" str2="XXX" city="XXX" state="AK" cntry="XXX" postlCd="12345"/>
+					</BrnchOfLocs>
+				</CrntEmp>
+			</CrntEmps>
+			<Exms>
+				<Exm exmCd="S63" exmNm="S63 XXXX" exmDt="1967-08-13"/>
+				<Exm exmCd="S66" exmNm="S66 XXXX" exmDt="1967-08-13"/>
+			</Exms>
+			<Dsgntns>
+				<Dsgntn dsgntnNm="XXXXX"/>
+				<Dsgntn dsgntnNm="XXXXX"/>
+			</Dsgntns>
+			<PrevRgstns>
+				<PrevRgstn orgNm="XXX LLC" orgPK="1234567891" regBeginDt="1967-08-13" regEndDt="1967-08-13">
+					<BrnchOfLocs>
+						<BrnchOfLoc city="XXX" state="AK"/>
+						<BrnchOfLoc city="XXX" state="AL"/>
+					</BrnchOfLocs>
+				</PrevRgstn>
+			</PrevRgstns>
+			<EmpHss>
+				<EmpHs fromDt="99/9999" toDt="99/9999" orgNm="XXX LLC" city="XXXX" state="AK"/>
+			</EmpHss>
+			<OthrBuss>
+				<OthrBus desc="XXXX"/>
+			</OthrBuss>
+			<DRPs>
+				<DRP hasRegAction="Y" hasCriminal="N" hasBankrupt="N" hasCivilJudc="N" hasBond="N" hasJudgment="Y" hasInvstgn="Y" hasCustComp="N" hasTermination="N"/>
+			</DRPs>
+		</Indvl>
+	</Indvls>
+</IAPDIndividualReport>

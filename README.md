@@ -1,6 +1,6 @@
 # IAPD XML to CSV Converter
 
-This script is designed to convert XML files containing Investment Adviser Public Disclosure (IAPD) data into a CSV format. The XML files follow a specific structure as described in the attached document.
+This script is designed to convert XML files containing Investment Adviser Public Disclosure (IAPD) / [Registered Investment Adviser Representatives](https://adviserinfo.sec.gov/compilation) data into a CSV format. The XML files follow a specific structure as described in the attached document. 
 
 ## Features
 

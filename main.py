@@ -3,6 +3,8 @@ import csv
 import xml.etree.ElementTree as ET
 from tqdm import tqdm
 
+version = "1.0.0"
+
 
 # Function to convert XML file to CSV format
 def xml_to_csv(xml_file):
